@@ -1,0 +1,11 @@
+{
+"companyName": "GVS",
+"productName": "Solar System",
+"dataUrl": "WbGL.data.unityweb",
+"asmCodeUrl": "WbGL.asm.code.unityweb",
+"asmMemoryUrl": "WbGL.asm.memory.unityweb",
+"asmFrameworkUrl": "WbGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
